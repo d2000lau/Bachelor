@@ -17,4 +17,4 @@ If you have any questions, please do not hesitate to contact me.
 
 References: Varlam Kutateladze, 2022. The kernel trick for nonlinear factor modeling
 
-GitHub page: https://github.com/d2000lau/
+GitHub page: [https://github.com/d2000lau/](https://github.com/d2000lau/Bachelor/tree/main)

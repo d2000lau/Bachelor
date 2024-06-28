@@ -1,5 +1,4 @@
 # Bachelor
-This GitHub repository includes the complete thesis and the corresponding Python code files associated with the research.
 
 This GitHub repository includes the complete thesis and corresponding Python code for the final Bachelor Thesis Econometrics & Operations, extending the paper of of Kutateladze (2022). There are four important files included in this folder:
 
